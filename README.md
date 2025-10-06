@@ -23,6 +23,8 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 # PROGRAM :
+```
+
 gallery.html
 <html>
     <head>
@@ -125,10 +127,19 @@ img2.addEventListener("mouseout",()=>
 {
     img2.style.transform="scale(1)"
 });
+```
 
 # OUTPUT:
-![alt text](<Screenshot 2025-10-06 214536.png>)
-![alt text](<Screenshot 2025-10-06 214556.png>)
+<img width="1919" height="1079" alt="Screenshot 2025-10-06 214536" src="https://github.com/user-attachments/assets/9e8fb42e-29b4-4b25-8284-94053b0fd86e" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-06 214556" src="https://github.com/user-attachments/assets/5d47b80d-938f-442b-8f59-995ebfca26e1" />
+
+
+# RESULT:
+The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
+
+
+# OUTPUT:
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
 
